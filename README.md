@@ -1,16 +1,40 @@
-## Hi there 👋
+Hi there! 👋 Welcome to My GitHub Profile
 
-<!--
-**sindhukm27/sindhukm27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+I’m Sindhu Krishnamurthy, a Java Technical Lead with expertise in Spring, Spring Boot, Microservices, Full-Stack Development, and Cloud Technologies. Passionate about building scalable applications, writing clean code, and mentoring developers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Tech Stack
+
+Backend: Java, Spring Boot, Hibernate, JPA, REST APIs, Microservices
+
+Frontend: JavaScript, Angular, ReactJS, HTML, CSS
+
+Database: PostgreSQL, MySQL, DB2
+
+Cloud & DevOps: AWS, Docker, , CI/CD (Jenkins, GitHub Actions)
+
+Testing: JUnit, Mockito, SOAP UI, Postman
+
+🚀 Projects
+
+🔹 Instalment Billing for Brokers – Implemented a flexible billing system for Allianz.
+
+🔹 Territorial Insurance Organization (TIO) – Delivered policy migration solutions.
+
+🔹 Commercial Pricing Service (CPS) – Developed a dynamic pricing engine.
+
+📚 Learning & Contributions
+
+Contributing to open-source projects
+
+Writing technical blogs
+
+Exploring new technologies
+
+📫 Connect with Me
+
+
+
+
+📩 Feel free to reach out for collaboration, discussions, or just a chat!
